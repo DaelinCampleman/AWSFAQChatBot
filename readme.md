@@ -49,12 +49,6 @@ export const LOCALE_ID = "en_ZA";
 export const INIT_INTENT = "Hello";
 ```
 
-Add Lex bot details to `app.component.ts` file.
-
-```javascript
-
-```
-
 ## Usage
 
 ```bash
