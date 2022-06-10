@@ -18,6 +18,8 @@ AWS Lex Bot with the following for later:
 - Bot ID
 - Bot Alias ID
 
+The AWS Lex Bot can be set up with the `Takealot_FAQ_Bot-7-KEZJAKPHFE-LexJson.zip` file from this repository.
+
 ## Installation
 
 Download the latest release from the repository.
