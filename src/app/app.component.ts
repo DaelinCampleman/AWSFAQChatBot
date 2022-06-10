@@ -19,19 +19,19 @@ export class AppComponent {
 
   }
 
-  public createSession(){
-    client.putSession({
-      sessionId: SESSION,
-      botId: BOT_ID,
-      botAliasId: BOT_ALIAS_ID,
-      localeId: LOCALE_ID,
-      sessionState: {
-        intent: {
-          name: INIT_INTENT
-        }
-      }
-    });
-  }
+  // public createSession(){
+  //   client.putSession({
+  //     sessionId: SESSION,
+  //     botId: BOT_ID,
+  //     botAliasId: BOT_ALIAS_ID,
+  //     localeId: LOCALE_ID,
+  //     sessionState: {
+  //       intent: {
+  //         name: INIT_INTENT
+  //       }
+  //     }
+  //   });
+  // }
 
   public showMessage(message: string, user: string){
     let tmpMessage = message.split(" ");
