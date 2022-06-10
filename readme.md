@@ -6,6 +6,9 @@ Live demo: [https://faqchatbot.campleman.co.za](https://faqchatbot.campleman.co.
 
 ## Prerequisites
 
+- Node.js
+`[https://nodejs.org/en/download/](https://nodejs.org/en/download/)`
+
 - Angular CLI
 ```bash
 $ npm install -g @angular/cli
