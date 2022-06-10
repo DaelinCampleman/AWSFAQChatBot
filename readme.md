@@ -58,3 +58,5 @@ export const INIT_INTENT = ""; // Intent to start an interaction with the bot
 ```bash
 $ ng serve
 ```
+
+Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/
