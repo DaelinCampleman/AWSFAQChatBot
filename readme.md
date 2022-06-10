@@ -17,10 +17,10 @@ Download the latest release
 
 ```bash
 #curl
-$ curl https://repo.stuffs.co.za/AWSFaqBot/master.zip
+$ curl [https://repo.stuffs.co.za/AWSFaqBot/master.zip](https://github.com/DaelinCampleman/AWSFAQChatBot.git)
 
 #wget
-$ wget https://repo.stuffs.co.za/AWSFaqBot/master.zip
+$ wget [https://repo.stuffs.co.za/AWSFaqBot/master.zip](https://github.com/DaelinCampleman/AWSFAQChatBot.git)
 ```
 
 Install required node packages
