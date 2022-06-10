@@ -2,6 +2,8 @@
 
 This program uses AWS Lex V2 and Angular to provide a chatbot that can answer the frequently asked questions on takealot.com
 
+Explanation and setup video: [https://drive.google.com/file/d/1KnBHsukKrst0wfnb6-eRIRcnqJKZeApo/view?usp=sharing](https://drive.google.com/file/d/1KnBHsukKrst0wfnb6-eRIRcnqJKZeApo/view?usp=sharing)
+
 Live demo: [https://faqchatbot.campleman.co.za](https://faqchatbot.campleman.co.za)
 
 GitHub Repo: [https://github.com/DaelinCampleman/AWSFAQChatBot](https://github.com/DaelinCampleman/AWSFAQChatBot)
