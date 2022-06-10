@@ -1,0 +1,13 @@
+<h1>{{title}}</h1>
+
+<div class="imessage" id="messagesSpot">
+    <p *ngFor="let message of responseR" class="{{message.user}}" [innerHTML]="message.message"></p>
+    <form (submit)="input($event)">
+      <input type="text" id="input" placeholder="Type here...">
+      <button type="submit" id="submit">Send</button>
+    </form>
+</div>
+
+
+
+<h2>{{responseR}}</h2>
