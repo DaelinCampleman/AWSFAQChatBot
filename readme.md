@@ -64,3 +64,7 @@ $ ng serve
 ```
 
 Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/
+
+## Guides used
+
+[Amazon Lex Documentation](https://docs.aws.amazon.com/lexv2/latest/dg/what-is.html)
