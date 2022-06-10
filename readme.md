@@ -4,6 +4,8 @@ This program uses AWS Lex V2 and Angular to provide a chatbot that can answer th
 
 Live demo: [https://faqchatbot.campleman.co.za](https://faqchatbot.campleman.co.za)
 
+GitHub Repo: [https://github.com/DaelinCampleman/AWSFAQChatBot](https://github.com/DaelinCampleman/AWSFAQChatBot)
+
 ## Prerequisites
 
 - Node.js
