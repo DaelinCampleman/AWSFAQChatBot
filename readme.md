@@ -15,15 +15,7 @@ AWS Lex Bot with the following for later:
 
 ## Installation
 
-Download the latest release
-
-```bash
-#curl
-$ curl [https://repo.stuffs.co.za/AWSFaqBot/master.zip](https://github.com/DaelinCampleman/AWSFAQChatBot.git)
-
-#wget
-$ wget [https://repo.stuffs.co.za/AWSFaqBot/master.zip](https://github.com/DaelinCampleman/AWSFAQChatBot.git)
-```
+Download the latest release from the repository.
 
 Install required node packages
 
